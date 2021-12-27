@@ -11,4 +11,4 @@ This project can be recreated by simply using the Jupyter notebook. Just make su
 
 ### Topics Covered
 
-- exploratory data analysis, image processing, neural network architecture, convolutional neural networks, transfer learning 
+- exploratory data analysis, image processing, neural network architecture, convolutional neural networks, transfer learning. model explainability, data analysis 
