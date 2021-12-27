@@ -9,6 +9,6 @@ This project can be recreated by simply using the Jupyter notebook. Just make su
 - Species_Image_Classification.ipynb - Jupyter notebook containing the data collection, EDA, ETL and neural network models with analysis and explanation. 
 
 
-### Data Science Topics Covered
+### Topics Covered
 
 - exploratory data analysis, image processing, neural network architecture, convolutional neural networks, transfer learning 
