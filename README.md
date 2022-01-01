@@ -28,7 +28,7 @@ This project can be recreated by simply using the Jupyter notebook, no need to d
 
 ### File Description 
 
-- Species_Image_Classification.ipynb - Jupyter notebook containing the data collection, EDA, ETL and neural networks with analysis and explanation. 
+- Species_Image_Classification.ipynb - Jupyter notebook containing the data collection, EDA, ETL and neural networks with analysis, evaluations and explanations. 
 
 
 ### Topics Covered
