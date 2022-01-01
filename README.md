@@ -19,7 +19,7 @@ These animals reside in the same region of the Western United States and Southwe
 The project will require the following steps:
 
 Get images from Google of each of the species.
-Pre-process the images for model building, specifically nueral networks.
+Pre-process the images for model building, specifically neural networks.
 Build a Convolutional Neural Network.
 Fine tune the models.
 Deploy the best model - (possible deployments could be an iOS/Android app, etc.)
